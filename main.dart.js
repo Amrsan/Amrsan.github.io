@@ -6229,7 +6229,8 @@ aSt(a){var s=A.aOS(a)
 if(s!=null)return s
 throw A.e(A.c1("Invalid double",a,null))},
 aZk(a,b){a=A.ea(a,new Error())
-a.stack=b.k(0),
+a.stack=b.k(0)
+throw a},
 bq(a,b,c,d){var s,r=c?J.w0(a,d):J.Ct(a,d)
 if(a!==0&&b!=null)for(s=0;s<r.length;++s)r[s]=b
 return r},
