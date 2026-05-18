@@ -1,11 +1,8 @@
 {
-<<<<<<< HEAD
     "name": "instaclinics",
     "short_name": "instaclinics",
-=======
     "name": "fristproject",
     "short_name": "fristproject",
->>>>>>> 93bf6bca16fdd4cb529e27395b8d54966be290c1
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
